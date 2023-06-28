@@ -1,5 +1,5 @@
-# [Ayesha's](https://github.com/uzernamex) Notes
-## Summary : This repository contains some of the notes taken by Ayesha for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp. 
+# Ayesha's Notes
+## Summary: This repository belongs to [Ayesha](https://github.com/uzernamex) contains notes pertaining to the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Program. 
 #
 #
 ## Table of Contents:
